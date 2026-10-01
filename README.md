@@ -19,6 +19,7 @@
 
 | Projet | Ce que je construis | État |
 | --- | --- | --- |
+| **[NAF25](https://changement-code-ape.nekketsu.ai/)** | Comparaison des codes APE actuels et NAF 2025, recherche SIREN/SIRET, questions guidées, vérification en lot et export CSV. | En développement |
 | **[Nekketsu](https://nekketsu.ai/)** | Site de mon activité indépendante, avec son identité visuelle et sa page de lancement. | En construction |
 | **Agent de pré-diagnostic métier** | Agent propulsé par **Hermes** : recherche d’entreprise, entretien guidé, dossier structuré et restitution web/PDF. | Prototype |
 | **Dashboard marketing unifié** | Pipeline de données et tableau de bord pour rapprocher acquisition, formulaires et informations métier. | En développement |
@@ -27,7 +28,6 @@
 
 ## Réalisations terminées
 
-- **[NAF25](https://changement-code-ape.nekketsu.ai/)** : comparaison des codes APE actuels et NAF 2025, recherche SIREN/SIRET, questions guidées, vérification en lot et export CSV.
 - **[Hablo Español](https://hablo-espanol.fr/)** : site vitrine avec domaine, hébergement, formulaire protégé et messagerie professionnelle.
 - **[Nine Éditions](https://nine-editions.fr/)** : catalogue éditable, panier, paiements, livraison et emails transactionnels.
 - **Agents Hermes** : agents spécialisés accessibles sur Discord, avec leurs outils et règles d’action :
