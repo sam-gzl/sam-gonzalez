@@ -13,10 +13,8 @@ Je construis des sites, des produits et des outils avec l’aide d’assistants 
 | **[NAF25](https://changement-code-ape.nekketsu.ai/)** | Outil pédagogique de comparaison de codes APE : recherche SIREN/SIRET, libellés officiels, questions guidées, vérification en lot et export CSV. | V1 gratuite publiée ; évolution commerciale à construire. |
 | **Nekketsu** | Identité visuelle, page de lancement et socle de composants pour le site de mon activité indépendante. | Page de lancement réalisée ; site en construction. |
 | **[Hablo Español](https://hablo-espanol.fr/)** | Site vitrine et exploitation technique : domaine, hébergement, formulaire protégé, envoi des messages et messagerie professionnelle. | Site livré et exploité. |
-| **Nine Éditions — e-commerce** | Site avec catalogue, CMS, panier et intégrations de paiement, livraison et emails transactionnels. | Réalisation existante ; état actuel d’exploitation à préciser. |
-| **Design System Web SaaS** | Tokens CSS, composants, documentation et page de démonstration pour des interfaces web réutilisables. | Réalisé ; candidat à une publication open source distincte. |
-| **Nine Éditions — identité et design system** | Charte visuelle et règles de cohérence pour le site, les supports et les contenus produits avec des assistants IA. | Réalisé. |
-| **Cap** | Prototype d’application mobile avec stockage SQLite local, calculs déterministes et écran de bilan utilisable hors ligne. | Fondations et écran principal testés ; projet en pause, fonctionnalités restantes et intégration HealthKit inachevées. |
+| **Nine Éditions — e-commerce** | Site avec catalogue, CMS, panier et intégrations de paiement, livraison et emails transactionnels. | Réalisé. |
+| **Design System Web SaaS** | Tokens CSS, composants, documentation et page de démonstration pour des interfaces web réutilisables. | Réalisé. |
 
 ## Agents, connaissances et infrastructure
 
