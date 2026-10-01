@@ -2,58 +2,38 @@
 
 Marketing digital, acquisition, data et automatisation.
 
-Je pars d’un problème concret pour concevoir une solution, piloter sa réalisation et vérifier son fonctionnement. Mon expérience relie SEO, parcours web, mesure de performance, intégrations API et usages de l’intelligence artificielle.
+Je conçois des sites, des produits web et des outils qui simplifient un travail concret : rendre une information accessible, centraliser des données ou automatiser une tâche répétitive. Je pilote leur réalisation avec des assistants IA, du cadrage à la recette et à la mise en service.
 
-Je construis des sites, des produits et des outils avec l’aide d’assistants IA. Mon rôle couvre le cadrage, les parcours, les choix fonctionnels, le pilotage de la réalisation, la recette et l’exploitation.
+## En cours
 
-## Produits et réalisations web
-
-| Réalisation | Ce que j’ai construit ou piloté | État |
+| Projet | Ce que je construis | État |
 | --- | --- | --- |
-| **[NAF25](https://changement-code-ape.nekketsu.ai/)** | Outil pédagogique de comparaison de codes APE : recherche SIREN/SIRET, libellés officiels, questions guidées, vérification en lot et export CSV. | V1 gratuite publiée ; évolution commerciale à construire. |
-| **Nekketsu** | Identité visuelle, page de lancement et socle de composants pour le site de mon activité indépendante. | Page de lancement réalisée ; site en construction. |
-| **[Hablo Español](https://hablo-espanol.fr/)** | Site vitrine et exploitation technique : domaine, hébergement, formulaire protégé, envoi des messages et messagerie professionnelle. | Site livré et exploité. |
-| **Nine Éditions — e-commerce** | Site avec catalogue, CMS, panier et intégrations de paiement, livraison et emails transactionnels. | Réalisé. |
-| **Design System Web SaaS** | Tokens CSS, composants, documentation et page de démonstration pour des interfaces web réutilisables. | Réalisé. |
+| **[Nekketsu](https://nekketsu.ai/)** | Site de mon activité indépendante, avec son identité visuelle et sa page de lancement. | En construction |
+| **Agent de pré-diagnostic métier** | Agent propulsé par **Hermes** : recherche d’entreprise, entretien guidé, dossier structuré et restitution web/PDF. | Prototype |
+| **Dashboard marketing unifié** | Pipeline de données et tableau de bord pour rapprocher acquisition, formulaires et informations métier. | En développement |
+| **Kit d’audit SEO/GEO** | Construction d’un kit à partir d’audits SEO et de visibilité IA : référentiel de constats, protocole et registre de preuves. | En développement |
 
-## Agents, connaissances et infrastructure
+## Réalisations terminées
 
-| Réalisation | Ce qu’elle permet | État |
+| Projet | Ce qu’il permet | État |
 | --- | --- | --- |
-| **Radar Idées** | Collecter des signets Raindrop, dédupliquer, regrouper et produire des synthèses de veille ; échanger à la demande sur Discord. | Opérationnel sur Discord ; Telegram restant à raccorder. |
-| **Environnement d’agents Hermes** | Séparer les profils, leurs missions et les outils autorisés, avec une interface de conversation et des règles de validation. | Environnement personnel utilisé. |
-| **Portabilité des outils IA** | Reconstruire un environnement de skills et de connecteurs sur une autre machine, avec les secrets gérés séparément. | Trousse de reconstruction constituée. |
-| **Second cerveau et accès MCP** | Organiser les connaissances et permettre leur consultation distante par les assistants, avec authentification et séparation des contextes. | Dispositif utilisé ; contenus et accès privés. |
-| **Sauvegarde automatisée** | Exécuter les sauvegardes et détecter les échecs ou l’absence d’exécution. | Dispositif mis en place. |
-| **Surveillance de l’infrastructure** | Contrôler les services et transmettre des alertes pour les situations qui demandent une intervention. | Dispositif mis en place. |
+| **[NAF25](https://changement-code-ape.nekketsu.ai/)** | Comparer les codes APE actuels et NAF 2025 : recherche SIREN/SIRET, questions guidées, vérification en lot et export CSV. | En ligne |
+| **[Hablo Español](https://hablo-espanol.fr/)** | Site vitrine avec domaine, hébergement, formulaire protégé et messagerie professionnelle. | Réalisé |
+| **Nine Éditions — e-commerce** | Catalogue éditable, panier, paiements, livraison et emails transactionnels. | Réalisé |
+| **Gestion des avis multi-établissements** | Centraliser les avis Google, préparer des réponses avec l’IA, les publier après relecture et suivre les performances locales. | En service |
+| **Radar Idées** | Transformer les signets Raindrop en synthèses de veille : collecte, déduplication et échanges sur Discord. | Opérationnel |
+| **Environnement d’agents Hermes** | Utiliser des agents spécialisés avec des missions, outils et règles d’action distincts. | Opérationnel |
+| **Portabilité des outils IA** | Reconstruire les skills et connecteurs sur une nouvelle machine, avec une configuration reproductible. | Réalisé |
+| **Second cerveau accessible aux agents** | Centraliser les connaissances dans Obsidian et permettre leur consultation distante par MCP, avec authentification. | Opérationnel |
+| **Sauvegarde et surveillance automatisées** | Sauvegarder les connaissances, surveiller les services et recevoir une alerte lorsqu’une intervention est nécessaire. | Opérationnel |
 
-## Réalisations professionnelles anonymisées
+## Ce que je fais
 
-Ces descriptions présentent mon travail sans identifier l’organisation, ses équipes, ses données ou ses systèmes internes. Elles distinguent les outils en service des prototypes et des travaux partiels.
+- SEO, acquisition et optimisation des parcours web.
+- Mesure de performance et exploitation des données marketing.
+- Intégrations API, automatisations et agents IA supervisés.
+- Cadrage, réalisation et exploitation de produits web.
 
-| Réalisation | Problème traité et réalisation | État |
-| --- | --- | --- |
-| **Gestion des avis d’un réseau d’établissements** | Centralisation automatique des avis Google, brouillons IA sur demande, modification et publication humaines, suivi interne et dashboard des performances locales. | V1 en service ; contrôle de complétude de certaines données de performance restant lors de la clôture. |
-| **Agent de pré-diagnostic métier** | Recherche d’entreprise, entretien guidé, dossier structuré et restitution web/PDF. | Démonstration en recette ; scoring prototype et mise en relation simulée. |
-| **Dashboard marketing unifié** | Rapprochement des données d’acquisition, de formulaires et des sources métier dans un pipeline de reporting. | Réalisation partielle ; périmètre des connecteurs et vues vérifiés à détailler. |
-| **Parcours d’acquisition avec quiz** | Quiz, formulaire, routage géographique et mesure des conversions. | Cas pilote réalisé. |
-| **Tracking entre sites et formulaires externes** | Implémentations et gabarits pour relier navigation, événements et conversions entre plusieurs outils. | Composants existants ; périmètre de chaque implémentation à préciser. |
-| **Mesure d’audience et consentement** | Audits de comportement, configurations et suivi des corrections de collecte et de consentement. | Interventions et vérifications réalisées ; chantiers plus larges encore ouverts. |
-| **Migration d’un site : tracking et consentement** | Contribution au volet mesure et consentement d’une mise en production, avec contrôle des parcours et redirections. | Interventions documentées ; contribution ciblée, sans attribution de toute la refonte. |
-| **Audits SEO et visibilité dans les moteurs IA** | Analyse des signaux disponibles, diagnostic sourcé et recommandations éditoriales ou techniques. | Travaux d’audit documentés ; résultats à illustrer avec des preuves partageables. |
-| **Kit d’audit SEO/GEO reproductible** | Référentiel de constats, protocole et schéma de registre pour rendre les audits plus cohérents et traçables. | Construction partielle ; exécution et gabarits inachevés. |
-| **Cahier des charges de refonte web** | Reconstruction des besoins métier, éditoriaux et techniques en un document de spécifications. | Cadrage terminé. |
+## Outils
 
-## Ma façon de travailler
-
-- Comprendre le besoin et le processus avant de choisir les outils.
-- Définir un périmètre, des parcours et des critères de vérification.
-- Utiliser des règles déterministes quand elles suffisent ; introduire l’IA pour les tâches qui le justifient.
-- Garder une validation humaine pour les actions qui l’exigent.
-- Montrer les limites et distinguer une fonction prévue d’une fonction testée ou mise en service.
-
-## Outils utilisés selon les projets
-
-HTML/CSS/JavaScript · TypeScript · React · Python · SQL/PostgreSQL · Cloudflare · Neon · API · MCP · Hermes · GTM · Matomo · Jotform · Tally · Obsidian
-
-Ce profil présente mes réalisations. La présentation d’un produit ne constitue pas une publication de son code ; les éventuelles contributions open source sont identifiées séparément.
+HTML/CSS/JavaScript · TypeScript · React · Python · SQL/PostgreSQL · Cloudflare · Neon · API · MCP · Hermes · GTM · Matomo · Obsidian
