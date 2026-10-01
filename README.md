@@ -1,8 +1,19 @@
-# Sam Gonzalez
+<h1 align="center">Sam Gonzalez</h1>
 
-Marketing digital, acquisition, data et automatisation.
+<p align="center">
+  <strong>Fondatrice de <a href="https://nekketsu.ai/">Nekketsu</a> · Sites web, acquisition et automatisation.</strong>
+</p>
 
-Je conçois des sites, des produits web et des outils qui simplifient un travail concret : rendre une information accessible, centraliser des données ou automatiser une tâche répétitive. Je pilote leur réalisation avec des assistants IA, du cadrage à la recette et à la mise en service.
+<p align="center">
+  Je construis des sites, des produits web et des outils qui rendent l’information accessible et simplifient les tâches répétitives.<br>
+  Je pilote leur réalisation avec des assistants IA, du cadrage à la mise en service.
+</p>
+
+<p align="center">
+  <a href="https://nekketsu.ai/">
+    <img src="https://img.shields.io/badge/NEKKETSU-NEKKETSU.AI-000000?style=for-the-badge&amp;labelColor=555555" alt="Nekketsu — nekketsu.ai">
+  </a>
+</p>
 
 ## En cours
 
