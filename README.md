@@ -37,4 +37,4 @@ Je conçois des sites, des produits web et des outils qui simplifient un travail
 
 ## Outils
 
-HTML/CSS/JavaScript · TypeScript · React · Python · SQL/PostgreSQL · Cloudflare · Neon · API · MCP · Hermes · GTM · Matomo · Obsidian
+`Hermes Agent` · `TypeScript` · `Python` · `PostgreSQL` · `Docker` · `Coolify` · `Cloudflare` · `Neon` · `MCP` · `React` · `HTML/CSS/JavaScript` · `API` · `GTM` · `Matomo` · `Obsidian`
