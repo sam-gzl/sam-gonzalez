@@ -21,6 +21,7 @@
 | --- | --- | --- |
 | **[NAF25](https://changement-code-ape.nekketsu.ai/)** | Comparaison des codes APE actuels et NAF 2025, recherche SIREN/SIRET, questions guidées, vérification en lot et export CSV. | En développement |
 | **[Nekketsu](https://nekketsu.ai/)** | Site de mon activité indépendante, avec son identité visuelle et sa page de lancement. | En construction |
+| **[Mono — version française](https://github.com/samgzl1/monocode-fr/tree/i18n-francais)** | Traduction française (i18n) de Mono, un GUI open source pour agents de code — initiative personnelle sur ce projet public. | En développement |
 | **Agent de pré-diagnostic métier** | Agent propulsé par **Hermes** : recherche d’entreprise, entretien guidé, dossier structuré et restitution web/PDF. | Prototype |
 | **Dashboard marketing unifié** | Pipeline de données et tableau de bord pour rapprocher acquisition, formulaires et informations métier. | En développement |
 | **Kit d’audit SEO/GEO** | Construction d’un kit à partir d’audits SEO et de visibilité IA : référentiel de constats, protocole et registre de preuves. | En développement |
